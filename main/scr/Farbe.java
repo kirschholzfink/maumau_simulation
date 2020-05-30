@@ -1,4 +1,3 @@
-package kartenspiel;
 
 public enum Farbe {
 	
