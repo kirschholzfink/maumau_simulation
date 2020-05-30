@@ -1,6 +1,6 @@
 package kartenspiel;
 
-public class MainKart {
+public class Main {
 
 	public static void main(String[] args) {
 
